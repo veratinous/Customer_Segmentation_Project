@@ -55,3 +55,6 @@ The dataset contains data collected from a marketing campaign
 #### Acknowledgement
 The dataset for this project is provided by Dr. Omar Romero-Hernandez.
 
+
+
+Link to Kaggle notebook ---> [Customer_Segmentation_Project](https://www.kaggle.com/code/magbuwevera/customer-segmentation-with-kmeans)
